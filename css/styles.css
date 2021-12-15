@@ -50,14 +50,14 @@ body {
     letter-spacing: 0.06em;
 }
 
-.header-list-studio {
+.header-list {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.4;
     letter-spacing: 0.02em;
 }
 
-.contacts-studio {
+.contacts {
 
     font-style: normal;
     font-weight: 500;
@@ -122,4 +122,31 @@ body {
     background: #2F303A;
     left: 0px;
     top: 2097px;
+}
+
+.street-address {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+.studio-link {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.studio-title-about {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
 }
