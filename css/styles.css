@@ -7,3 +7,6 @@ body {
 .link {
     text-decoration: none;
 }
+.header-list .link.current {
+    color: blue;
+}
